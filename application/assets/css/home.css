@@ -1,0 +1,10 @@
+input[type=text].search, input[type=password].search {
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 7px;
+	font-size: 14px;
+	border: 0px solid #DDD; 
+	color: #AAA;
+	background: #FFF url(../images/home-login.png) 0 -131px; 
+	width: 193px;
+	margin-right: 6px;
+}
